@@ -1,3 +1,12 @@
 .vscode/
 .DS_Store
 .venv
+*/db_data/*
+*/minio_data/*
+**/*.tmp.json
+**/*.tmp.yaml
+**/*.tmp.yml
+**/*.tmp.txt
+**/*.tmp.csv
+**/*.tmp.env
+**/*.tmp.ini
